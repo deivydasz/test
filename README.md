@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-"# test" 
-"# test555" 
 "# test555" 
 =======
 Mano naujai pakeistas tekstas
